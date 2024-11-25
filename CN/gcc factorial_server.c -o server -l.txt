@@ -1,0 +1,1 @@
+gcc factorial_server.c -o server -lws2_32
